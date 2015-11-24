@@ -1,6 +1,6 @@
 #Code Book
 
-#######This code book summarizes the resulting data fields in tidy_data.txt.
+#######This code book summarizes the resulting data fields in tidy_cleaning.txt.
 
 ###Identifiers
 
